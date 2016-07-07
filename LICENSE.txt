@@ -1,0 +1,28 @@
+
+
+Copyright (c) 2016 Modurodoluwa Okeowo & Hygonki Lee (PhD.)
+
+Permission is hereby granted, to any person obtaining a copy
+of this software and associated documentation files, to deal
+in the Software; the rights
+to use, copy, modify, merge, publish, distribute, and to permit persons to whom the Software is
+furnished to do so. We implore users to reference the paper/manuscript titled below for any use of 
+any parts of the codes:
+
+Automated Generation of Lakes and Reservoir Water Elevation Changes From Satellite Radar Altimetry.
+ M.A. Okeowo1, 2, Hyongki Lee1, 2, Faisal Hossain3, Augusto Getirana4
+1. Department of Civil and Environmental Engineering, University of Houston, Houston, TX, USA
+2. National Center for Airborne Laser Mapping, University of Houston, Houston, TX, USA
+3. Department of Civil and Environmental Engineering, University of Washington, Seattle, WA, USA
+4. Hydrological Sciences Laboratory, NASA Goddard Space Flight Center, Greenbelt, MD, USA
+
+As at the time of this documentation (07/07/2016), the manuscript is yet to be published but potential
+users can in the future google the title to ascertain the journal of publication.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
