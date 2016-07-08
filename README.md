@@ -2,6 +2,9 @@
 
 Jason 2 and SARAL/AltiKa Time Series
 This algorithm was developed to automate the process of generating Jason 2 and SARAL/AltiKa altimetry time series plot directly from the raw netCDF file. 
+- Supported by: NASA Applied Sciences Program & SERVIR Program
+- Version 1.0 and 08/08/2015
+- Contact Email: maokeowo@uh.edu, hlee@uh.edu
 ******************************************************************************
 To run this program, you need the following matlab file functions in your directory
 Required matlab files:
