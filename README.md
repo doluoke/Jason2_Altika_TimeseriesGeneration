@@ -2,7 +2,8 @@
 
 Jason 2 and SARAL/AltiKa Time Series
 This algorithm was developed to automate the process of generating Jason 2 and SARAL/AltiKa altimetry time series plot directly from the raw netCDF file. 
-******************************************************************************To run this program, you need the following matlab file functions in your directory
+******************************************************************************
+To run this program, you need the following matlab file functions in your directory
 Required matlab files:
 	altika_gdr_info.m & jason2_gdr_info.m
 	altimetryoutlier.m
@@ -13,16 +14,20 @@ Required matlab files:
 	gre2mjd.m
 	copyNETCDF.m
 	dirwalk.m
-******************************************************************************Disclaimer:
+******************************************************************************
+Disclaimer:
 The software developer is not responsible for any liability or damages arising from the use of this algorithm.  The use of all or any part of this algorithm is prohibited without the express reference to the developer/paper below:
+
 Automated Generation of Lakes and Reservoir Water Elevation Changes From Satellite Radar Altimetry.
+Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Journal (Submitted)
  M.A. Okeowo1, 2, Hyongki Lee1, 2, Faisal Hossain3, Augusto Getirana4
 1. Department of Civil and Environmental Engineering, University of Houston, Houston, TX, USA
 2. National Center for Airborne Laser Mapping, University of Houston, Houston, TX, USA
 3. Department of Civil and Environmental Engineering, University of Washington, Seattle, WA, USA
 4. Hydrological Sciences Laboratory, NASA Goddard Space Flight Center, Greenbelt, MD, USA
 
-As at the time of this documentation (07/07/2016), the manuscript is yet to be published but potential users can in the future google the title to ascertain the journal of publication. Read the Licence.txt file.
+
+ Read the Licence.txt file.
 
 Jason-2 Time Series
 Step 1:  
