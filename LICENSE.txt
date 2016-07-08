@@ -1,6 +1,10 @@
 
 
 Copyright (c) 2016 Modurodoluwa Okeowo & Hyongki Lee, Department of Civil and Environmental Engineering, University of Houston
+- Supported by: NASA Applied Sciences Program & SERVIR Program
+- Version 1.0 and 08/08/2015
+- Contact Email: maokeowo@uh.edu, hlee@uh.edu
+
 
 Permission is hereby granted, to any person obtaining a copy
 of this software and associated documentation files, to deal
