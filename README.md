@@ -19,7 +19,7 @@ Disclaimer:
 The software developer is not responsible for any liability or damages arising from the use of this algorithm.  The use of all or any part of this algorithm is prohibited without the express reference to the developer/paper below:
 
 Automated Generation of Lakes and Reservoir Water Elevation Changes From Satellite Radar Altimetry.
-Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Journal (Submitted)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Submitted)
  M.A. Okeowo1, 2, Hyongki Lee1, 2, Faisal Hossain3, Augusto Getirana4
 1. Department of Civil and Environmental Engineering, University of Houston, Houston, TX, USA
 2. National Center for Airborne Laser Mapping, University of Houston, Houston, TX, USA
