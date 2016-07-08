@@ -1,6 +1,6 @@
 
 
-Copyright (c) 2016 Modurodoluwa Okeowo & Hyongki Lee (PhD.), Department of Civil and Environmental Engineering, University of Houston
+Copyright (c) 2016 Modurodoluwa Okeowo & Hyongki Lee, Department of Civil and Environmental Engineering, University of Houston
 
 Permission is hereby granted, to any person obtaining a copy
 of this software and associated documentation files, to deal
