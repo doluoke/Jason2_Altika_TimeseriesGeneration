@@ -21,9 +21,9 @@ Required matlab files:
 Disclaimer:
 The software developer is not responsible for any liability or damages arising from the use of this algorithm.  The use of all or any part of this algorithm is prohibited without the express reference to the developer/paper below:
 
-Automated Generation of Lakes and Reservoir Water Elevation Changes From Satellite Radar Altimetry.
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Submitted)
- M.A. Okeowo1, 2, Hyongki Lee1, 2, Faisal Hossain3, Augusto Getirana4
+Okeowo, M. A., Lee, H., Hossain, F., & Getirana, A. (2017). Automated Generation of Lakes and Reservoirs Water Elevation Changes From Satellite Radar Altimetry. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+
+M.A. Okeowo1, 2, Hyongki Lee1, 2, Faisal Hossain3, Augusto Getirana4
 1. Department of Civil and Environmental Engineering, University of Houston, Houston, TX, USA
 2. National Center for Airborne Laser Mapping, University of Houston, Houston, TX, USA
 3. Department of Civil and Environmental Engineering, University of Washington, Seattle, WA, USA
